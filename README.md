@@ -108,13 +108,6 @@ O desafio deste projeto é *desenvolver um sistema de chamados inteligente*, que
 - Testes finais e documentação  
 
 ---
-
-##  Cronograma de Evolucão do Projeto
-
-![Cronograma do Projeto](Link)
-
----
-
 #  Tabela das Sprints
 
 | Sprint | Período (2025) | Objetivos | Entregas | Documentação |
