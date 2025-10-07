@@ -120,14 +120,14 @@ O desafio deste projeto é *desenvolver um sistema de chamados inteligente*, que
 | *Entrega Final* | *24/05* | Versão 1.0 entregue | Sistema prototipo pronto + documentação completa. |
 
 ---
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - *Linguagem:* C#  
 - *Frameworks:* ASP.NET Core, Entity Framework  
 - *Banco de Dados:* SQL Server  
 - *Ferramentas de Apoio:* Figma (prototipagem) e Astah (modelagem de diagramas)
 
 ---
-## 🖥 Como Utilizar
+##  Como Utilizar
 
 O *HelpDesk Inteligente* permite:  
 - *Usuário:* criar conta, abrir chamados, acompanhar e encerrar chamados.  
@@ -136,20 +136,6 @@ O *HelpDesk Inteligente* permite:
 
 ---
 
-##  Como Executar Localmente
-
-```bash
-# clone o repositório
-git clone https://github.com/seu-repo.git
-cd helpdesk-inteligente
-
-# restaure pacotes e crie o banco
-dotnet restore
-dotnet ef database update
-
-# rode o projeto
-dotnet run
-
-##  Equipe
+## Equipe
 
 <table> <tr> <td align="center"> <a href="https://github.com/IgorIdalgo"> <img src="https://avatars.githubusercontent.com/IgorIdalgo" width="100px;" alt="Igor Idalgo"/> <br /> <sub><b>Igor Idalgo</b></sub> </a> <br /> <a href="https://www.linkedin.com/in/igor-sene">🔗 LinkedIn</a> </td> <td align="center"> <a href="https://github.com/Verdussen"> <img src="https://avatars.githubusercontent.com/u/183842345?v=4" width="100px;" alt="Verdussen"/> <br /> <sub><b>Verdussen</b></sub> </a> <br /> <a href="https://github.com/Verdussen">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/HenryDamasceno01"> <img src="https://avatars.githubusercontent.com/HenryDamasceno01" width="100px;" alt="Henry Damasceno"/> <br /> <sub><b>Henry Damasceno</b></sub> </a> <br /> <a href="https://www.linkedin.com/in/henry-damasceno-101b0a2ba/">🔗 LinkedIn</a> </td> <td align="center"> <a href="https://github.com/gobiss"> <img src="https://avatars.githubusercontent.com/gobiss" width="100px;" alt="Gobiss"/> <br /> <sub><b>Gobiss</b></sub> </a> <br /> <a href="https://github.com/gobiss">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/anaclaraleao"> <img src="https://avatars.githubusercontent.com/anaclaraleao" width="100px;" alt="Ana Clara"/> <br /> <sub><b>Ana Clara</b></sub> </a> <br /> <a href="https://github.com/anaclaraleao">🔗 GitHub</a> </td> <td align="center"> <a href="https://github.com/Pedrocarval"> <img src="https://avatars.githubusercontent.com/u/203900219?v=4" width="100px;" alt="Pedro Carval"/> <br /> <sub><b>Pedro Carval</b></sub> </a> <br /> <a href="https://github.com/Pedrocarval">🔗 GitHub</a> </tr> </table>
